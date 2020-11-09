@@ -24,8 +24,18 @@ body{
     font-size: 20px;
     text-align: center;
 }
-
-
+.underline{
+    border-bottom: 1px solid gold;
+}
+.subtitle{
+    margin-top: -20px;
+}
+.title{
+    font-size: 42px;
+}
+.gold{
+    color: gold;
+}
 #main{
     flex: 70%;
     
